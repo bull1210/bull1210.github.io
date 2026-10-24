@@ -6,7 +6,7 @@ query: rate photos android keep ratings
 slug: rate-and-tag-photos-xmp
 keywords: star rating photos tags xmp metadata smart album favourites portable lightroom windows explorer
 related: [backup-photo-app-settings, photo-gallery-without-cloud, declutter-phone-photos]
-image: /assets/shots/08_albums.jpg
+image: /assets/pins/rate-and-tag-photos-xmp.jpg
 ---
 
 You go through a trip's photos and mark the good ones. A year later you change phone, or gallery app, or

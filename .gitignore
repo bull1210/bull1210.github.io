@@ -3,3 +3,4 @@ _site/
 .jekyll-cache/
 data/gsc/*.zip
 data/gsc/*.csv
+!data/pins.csv

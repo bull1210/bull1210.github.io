@@ -6,6 +6,7 @@ query: hide photos on android securely
 slug: hide-photos-vault
 keywords: private photos locked folder encrypted vault hidden album secure gallery recover
 related: [backup-photo-app-settings, photo-gallery-without-cloud, find-photos-of-a-person]
+image: /assets/pins/hide-photos-vault.jpg
 ---
 
 Some photos should not be in the grid when you hand your phone to a child to see the holiday pictures:

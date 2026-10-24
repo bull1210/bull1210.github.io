@@ -6,7 +6,7 @@ query: move photos from camera folder to another folder android
 slug: sort-camera-folder-into-folders
 keywords: organize camera roll folders dcim sort photos into albums move trip photos new folder
 related: [declutter-phone-photos, memory-video-from-photos, find-duplicate-photos]
-image: /assets/shots/02_folders.jpg
+image: /assets/pins/sort-camera-folder-into-folders.jpg
 ---
 
 Every photo you take lands in the same place: a folder called Camera, inside DCIM. After a few years it

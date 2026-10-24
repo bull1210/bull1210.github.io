@@ -6,6 +6,7 @@ query: find receipts in phone photos
 slug: find-receipts-in-photos
 keywords: receipt photos expenses bills export csv spreadsheet track receipts gallery
 related: [find-text-in-photos, search-photos-by-description, declutter-phone-photos]
+image: /assets/pins/find-receipts-in-photos.jpg
 ---
 
 You photograph receipts because it is faster than keeping paper. Then the month ends, the expense claim or

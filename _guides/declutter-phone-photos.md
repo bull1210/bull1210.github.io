@@ -6,7 +6,7 @@ query: clean up photos on android
 slug: declutter-phone-photos
 keywords: delete unwanted photos screenshots blurry burst forwarded images free up storage gallery cleaner
 related: [find-duplicate-photos, free-up-space-old-chat-media, sort-camera-folder-into-folders]
-image: /assets/shots/07_declutter.jpg
+image: /assets/pins/declutter-phone-photos.jpg
 ---
 
 Most of what fills a phone's gallery was never meant to be kept. The good-morning forward from a group,

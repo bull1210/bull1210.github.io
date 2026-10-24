@@ -6,6 +6,7 @@ query: photo collage without cropping android
 slug: photo-collage-without-cropping
 keywords: collage maker full photos no crop grid layout combine pictures into one image pdf
 related: [memory-video-from-photos, sort-camera-folder-into-folders, declutter-phone-photos]
+image: /assets/pins/photo-collage-without-cropping.jpg
 ---
 
 You want four photos in one picture for a chat or a print. Every collage app offers the same thing: a grid

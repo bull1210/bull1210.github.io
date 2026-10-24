@@ -6,6 +6,7 @@ query: backup photo organizer settings new phone
 slug: backup-photo-app-settings
 keywords: backup gallery app data restore new phone transfer people names ratings albums pixbak reinstall
 related: [rate-and-tag-photos-xmp, hide-photos-vault, photo-gallery-without-cloud]
+image: /assets/pins/backup-photo-app-settings.jpg
 ---
 
 A gallery app learns things from you over a year. Which face is Amma. Which photos are five stars. That the

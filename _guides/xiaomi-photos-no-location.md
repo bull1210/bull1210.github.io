@@ -6,6 +6,7 @@ query: xiaomi photos no location
 slug: xiaomi-photos-no-location
 keywords: redmi camera gps photo location missing map empty geotag exif save location info hyperos miui
 related: [search-photos-by-description, photo-gallery-without-cloud]
+image: /assets/pins/xiaomi-photos-no-location.jpg
 ---
 
 You open a map of your photos and it is empty, or you look at a photo's details and there is a date, a

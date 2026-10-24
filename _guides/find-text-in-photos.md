@@ -6,7 +6,7 @@ query: search text in photos android
 slug: find-text-in-photos
 keywords: ocr photos find words in screenshots copy text from photo search receipts signs whiteboard
 related: [search-photos-by-description, find-receipts-in-photos, declutter-phone-photos]
-image: /assets/shots/05_ai.jpg
+image: /assets/pins/find-text-in-photos.jpg
 ---
 
 A lot of what sits in a phone's gallery is not really a photo. It is a screenshot of a booking, a shot of

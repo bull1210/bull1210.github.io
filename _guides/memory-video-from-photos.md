@@ -6,7 +6,7 @@ query: make a video from photos with music android
 slug: memory-video-from-photos
 keywords: photo slideshow video maker memory movie add song music clip from pictures
 related: [sort-camera-folder-into-folders, photo-collage-without-cropping, search-photos-by-description]
-image: /assets/shots/06_movie.jpg
+image: /assets/pins/memory-video-from-photos.jpg
 ---
 
 A birthday is sixty photos nobody will scroll through in a chat. The same sixty photos as a one-minute

@@ -6,7 +6,7 @@ query: find all photos of one person android
 slug: find-photos-of-a-person
 keywords: face grouping people photos search by name gallery faces offline face recognition
 related: [search-photos-by-description, memory-video-from-photos, photo-gallery-without-cloud]
-image: /assets/shots/04_people.jpg
+image: /assets/pins/find-photos-of-a-person.jpg
 ---
 
 A grandparent asks for photos of the baby. You want the pictures of your mother from the last trip for her

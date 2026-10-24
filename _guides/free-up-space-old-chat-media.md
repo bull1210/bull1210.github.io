@@ -6,7 +6,7 @@ query: delete old whatsapp photos to free up space android
 slug: free-up-space-old-chat-media
 keywords: whatsapp media storage full large videos telegram images clear space phone storage gallery
 related: [declutter-phone-photos, find-duplicate-photos, sort-camera-folder-into-folders]
-image: /assets/shots/07_declutter.jpg
+image: /assets/pins/free-up-space-old-chat-media.jpg
 ---
 
 The phone says storage is almost full. Photos you took yourself are rarely the reason. Chat apps save every

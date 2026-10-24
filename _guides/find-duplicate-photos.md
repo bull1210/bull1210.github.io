@@ -6,7 +6,7 @@ query: find and delete duplicate photos android
 slug: find-duplicate-photos
 keywords: duplicate photo cleaner remove copies same photo twice gallery offline free space
 related: [declutter-phone-photos, free-up-space-old-chat-media, sort-camera-folder-into-folders]
-image: /assets/shots/07_declutter.jpg
+image: /assets/pins/find-duplicate-photos.jpg
 ---
 
 A photo gets shared in a family group, saved from the group, sent back edited, downloaded again from a

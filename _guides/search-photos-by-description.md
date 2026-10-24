@@ -6,7 +6,7 @@ query: search photos by description android
 slug: search-photos-by-description
 keywords: find photo by describing it natural language gallery search offline ai photo search
 related: [find-text-in-photos, find-photos-of-a-person, photo-gallery-without-cloud]
-image: /assets/shots/01_search.jpg
+image: /assets/pins/search-photos-by-description.jpg
 ---
 
 You remember the photo. A red temple, late light, the year you went south. What you do not remember is the

@@ -6,7 +6,7 @@ query: offline photo gallery app android
 slug: photo-gallery-without-cloud
 keywords: gallery app no cloud private photo gallery google photos backup off alternative local photos
 related: [search-photos-by-description, find-photos-of-a-person, backup-photo-app-settings]
-image: /assets/shots/03_moments.jpg
+image: /assets/pins/photo-gallery-without-cloud.jpg
 ---
 
 Plenty of people turn Google Photos backup off, or never turn it on. The free space ran out, the photos are of
