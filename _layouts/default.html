@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+<link rel="icon" href="{{ '/assets/icon.png' | relative_url }}">
+<style>
+:root { --ink: #1c1b2e; --muted: #5b5a73; --brand: #3f51b5; --teal: #00897b; --card: #f4f3fb; --line: #e3e1f0; --bg: #ffffff; }
+@media (prefers-color-scheme: dark) { :root { --ink: #ecebf7; --muted: #aaa8c4; --brand: #9fa8da; --teal: #4db6ac; --card: #22213a; --line: #353452; --bg: #15142a; } }
+* { box-sizing: border-box; }
+body { margin: 0; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--ink); background: var(--bg); }
+a { color: var(--brand); }
+header.site { border-bottom: 1px solid var(--line); }
+header.site .wrap, main, footer.site .wrap { max-width: 720px; margin: 0 auto; padding: 0 16px; }
+header.site .wrap { display: flex; align-items: center; gap: 16px; height: 56px; }
+header.site .brand { font-weight: 700; text-decoration: none; color: var(--ink); display: flex; align-items: center; gap: 8px; }
+header.site .brand img { width: 28px; height: 28px; border-radius: 7px; }
+header.site nav { margin-left: auto; display: flex; gap: 16px; }
+header.site nav a { text-decoration: none; color: var(--muted); }
+main { padding: 24px 16px 48px; }
+h1 { font-size: 1.9rem; line-height: 1.25; margin: 0.4em 0 0.5em; }
+h2 { font-size: 1.3rem; margin-top: 1.8em; }
+h3 { font-size: 1.1rem; }
+p.lead { font-size: 1.15rem; color: var(--muted); }
+.meta { color: var(--muted); font-size: 0.9rem; }
+.card { background: var(--card); border-radius: 14px; padding: 16px 20px; margin: 1.5em 0; }
+.card h2, .card h3 { margin-top: 0; }
+.play { display: inline-block; background: var(--brand); color: #fff; text-decoration: none; padding: 10px 18px; border-radius: 999px; font-weight: 600; }
+.play:hover { filter: brightness(1.1); }
+ul.guides { list-style: none; padding: 0; }
+ul.guides li { padding: 12px 0; border-bottom: 1px solid var(--line); }
+ul.guides li a { font-weight: 600; text-decoration: none; }
+ul.guides li p { margin: 4px 0 0; color: var(--muted); }
+img { max-width: 100%; border-radius: 10px; }
+code { background: var(--card); padding: 1px 5px; border-radius: 4px; font-size: 0.95em; }
+footer.site { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; }
+footer.site .wrap { padding: 20px 16px; display: flex; flex-wrap: wrap; gap: 16px; }
+footer.site a { color: var(--muted); }
+</style>
+</head>
+<body>
+<header class="site"><div class="wrap">
+  <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/icon.png' | relative_url }}" alt="">PixOrg</a>
+  <nav><a href="{{ '/guides/' | relative_url }}">Guides</a><a href="{{ site.play_url }}">Google Play</a></nav>
+</div></header>
+<main>
+{{ content }}
+</main>
+<footer class="site"><div class="wrap">
+  <span>PixOrg for Android. The AI runs on your phone.</span>
+  <a href="{{ site.privacy_url }}">Privacy policy</a>
+  <a href="mailto:pixorg.support@gmail.com">pixorg.support@gmail.com</a>
+</div></footer>
+</body>
+</html>

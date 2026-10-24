@@ -1,0 +1,5 @@
+__pycache__/
+_site/
+.jekyll-cache/
+data/gsc/*.zip
+data/gsc/*.csv
