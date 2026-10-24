@@ -1,0 +1,48 @@
+title: PixOrg
+tagline: Smart AI photo gallery for Android. Private, offline.
+description: Guides to finding, sorting and keeping your photos on Android with PixOrg, the offline AI photo gallery. Nothing about a photo ever leaves your phone.
+url: https://bull1210.github.io
+baseurl: ""
+lang: en
+author: PixOrg
+play_url: https://play.google.com/store/apps/details?id=com.pixorg.pixorg
+privacy_url: https://bull1210.github.io/pixorg-privacy/privacy-policy.html
+# Paste the token from Search Console ▸ Settings ▸ Ownership verification ▸ HTML tag (only the content="..." value).
+google_site_verification:
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+timezone: Asia/Kolkata
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  guides:
+    output: true
+    permalink: /guides/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: guide
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/pixorg-card.png
+
+exclude:
+  - README.md
+  - STYLE.md
+  - tools
+  - data
+  - Gemfile
+  - Gemfile.lock
+  - vendor
