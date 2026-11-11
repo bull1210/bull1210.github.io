@@ -7,6 +7,8 @@ permalink: /
 
 <p class="lead">PixOrg is a photo gallery for Android with the AI on the phone. Type "sunset at the beach" or "electricity bill" and it finds the photo. It groups your days into Moments, finds every photo of a person, sorts the Camera folder into folders, and makes short movies with your own music. Nothing about a photo ever leaves your phone.</p>
 
+<p>The full tour of what it does lives on the app's own site, <a href="{{ site.home_url }}">pixorg.in</a>.</p>
+
 {% include play-card.html %}
 
 ## Guides
